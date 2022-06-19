@@ -6,7 +6,7 @@ It was tested on Ubuntu 21.10 and Windows 10.
 To use this application you have to clone the whole reposiotry and then just run: /build-USB_detector-Desktop_Qt_6_2_4_GCC_64bit-Debug/USB_detector.  
 
 After running it such a window should appear:
-![all text](file:///home/ukasz/Pictures/usb_detector_howtouse.png)  
+![Screenshot](usb_detector_howtouse.png)  
 
 ### Usage is pretty simple, we just have two buttons:
 1) __OPEN USB DIRECTORY__ - this button opens our default file manager (on Ubuntu it will be Nautilus), and then we have to simply choose file which we want to read.
