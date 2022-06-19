@@ -1,6 +1,6 @@
 # USB detector
 This is a simple application for reading files from your USB.  
-It was tested on Ubuntu 21.10 and Windows 10.
+It was tested on Ubuntu 21.10.
 
 ## How to use
 To use this application you have to clone the whole reposiotry and then just run: /build-USB_detector-Desktop_Qt_6_2_4_GCC_64bit-Debug/USB_detector.  
